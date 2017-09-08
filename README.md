@@ -6,6 +6,6 @@ Host file in case Authoritative DNS servers were offline
 
 # Requirements
 
-Install requirements from list and also install alexa-topsites library from Github project [https://github.com/inspace/alexa-topsites]
+Install requirements from list and also install alexa-topsites library from Github project [https://github.com/davedash/Alexa-Top-Sites]
 
 	pip install -r requirements.txt
